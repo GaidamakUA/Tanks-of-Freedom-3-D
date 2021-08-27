@@ -61,6 +61,9 @@ var city_tiles = [
     "maidan_circle_side",
     "maidan_circle_corner",
     "maidan_circle_corner_mirrored",
+    "maidan_globus_left",
+    "maidan_globus_center",
+    "maidan_globus_right",
 ]
 var mountain_tiles = [
     "nature_big_rocks1",

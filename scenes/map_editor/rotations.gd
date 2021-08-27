@@ -69,6 +69,9 @@ func build_rotations(templates, builder):
 		templates.MAIDAN_CIRCLE_SIDE,
 		templates.MAIDAN_CIRCLE_TOP,
 		templates.MAIDAN_CIRCLE_CORNER_MIRRORED,
+		templates.MAIDAN_GLOBUS_LEFT,
+		templates.MAIDAN_GLOBUS_CENTER,
+		templates.MAIDAN_GLOBUS_RIGHT,
 	])
 
 	self.rotations[builder.CLASS_DECORATION] = self.build_from_array([

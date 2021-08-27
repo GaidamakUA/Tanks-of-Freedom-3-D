@@ -222,6 +222,9 @@ const MAIDAN_CIRCLE_TOP = "maidan_circle_top"
 const MAIDAN_CIRCLE_SIDE = "maidan_circle_side"
 const MAIDAN_CIRCLE_CORNER = "maidan_circle_corner"
 const MAIDAN_CIRCLE_CORNER_MIRRORED = "maidan_circle_corner_mirrored"
+const MAIDAN_GLOBUS_LEFT = "maidan_globus_left"
+const MAIDAN_GLOBUS_CENTER = "maidan_globus_center"
+const MAIDAN_GLOBUS_RIGHT = "maidan_globus_right"
 
 var templates = {
     self.DUMMY_GROUND : preload("res://scenes/tiles/ground/base_ground.tscn"),
@@ -438,6 +441,9 @@ var templates = {
     self.MAIDAN_CIRCLE_CORNER_MIRRORED : preload("res://scenes/tiles/maidan/monument_circle_corner_mirrored_overtile.tscn"),
     self.MAIDAN_CIRCLE_TOP : preload("res://scenes/tiles/maidan/monument_circle_top_overtile.tscn"),
     self.MAIDAN_CIRCLE_SIDE : preload("res://scenes/tiles/maidan/monument_circle_side_overtile.tscn"),
+    self.MAIDAN_GLOBUS_LEFT : preload("res://scenes/tiles/maidan/globus_left_overtile.tscn"),
+    self.MAIDAN_GLOBUS_CENTER : preload("res://scenes/tiles/maidan/globus_center_overtile.tscn"),
+    self.MAIDAN_GLOBUS_RIGHT : preload("res://scenes/tiles/maidan/globus_right_overtile.tscn"),
 }
 
 var side_materials = {
