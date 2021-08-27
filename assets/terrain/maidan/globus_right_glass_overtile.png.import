@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/globus_central_overtile.png-6534c533cae7920c8a1598b6053a5955.s3tc.stex"
-path.etc2="res://.import/globus_central_overtile.png-6534c533cae7920c8a1598b6053a5955.etc2.stex"
+path.s3tc="res://.import/globus_right_glass_overtile.png-0268a23e636561be862a180dae5b84e4.s3tc.stex"
+path.etc2="res://.import/globus_right_glass_overtile.png-0268a23e636561be862a180dae5b84e4.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/terrain/maidan/globus_central_overtile.png"
-dest_files=[ "res://.import/globus_central_overtile.png-6534c533cae7920c8a1598b6053a5955.s3tc.stex", "res://.import/globus_central_overtile.png-6534c533cae7920c8a1598b6053a5955.etc2.stex" ]
+source_file="res://assets/terrain/maidan/globus_right_glass_overtile.png"
+dest_files=[ "res://.import/globus_right_glass_overtile.png-0268a23e636561be862a180dae5b84e4.s3tc.stex", "res://.import/globus_right_glass_overtile.png-0268a23e636561be862a180dae5b84e4.etc2.stex" ]
 
 [params]
 
